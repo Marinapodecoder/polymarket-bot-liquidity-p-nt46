@@ -1,4 +1,4 @@
-# 
+# Polymarket best bot: leverage-trading & automated-trade-execution is the best Polymarket bot, featuring leverage-trading and automated-trade-execution. Smart, fast, and optimized
 
 
 
